@@ -1,0 +1,8 @@
+A quick introduction:
+Words in CYAN can be queried (automatic highlighting can result in weird formatting, please ignore)
+You can query a word by typing it in the input at the the bottom of the console
+You can exit by typing "quit" or "exit"
+
+Frequent Queries:
+- closure
+- quewards
